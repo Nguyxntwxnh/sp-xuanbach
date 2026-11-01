@@ -1,0 +1,5 @@
+Lớp dự đoán,Đúng (TP),Báo nhầm nền,Sai lớp,Lệch box,Trùng lặp,Tổng dự đoán,Precision
+bus,9,1,0,0,3,13,0.692
+car,145,8,9,6,6,174,0.833
+motorcycle,315,55,0,24,43,437,0.721
+truck,29,6,8,3,6,52,0.558

@@ -1,0 +1,4 @@
+Mức che khuất,Đúng (TP),Bỏ sót (FN),Nhầm lớp,Lệch box,Tổng,Recall
+Không che (<10%),234,22,1,9,266,0.88
+Che một phần (10–40%),57,13,0,6,76,0.75
+Che nhiều (>40%),24,14,0,9,47,0.511

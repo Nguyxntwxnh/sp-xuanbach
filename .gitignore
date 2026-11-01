@@ -1,0 +1,8 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# File > 100MB (GitHub limit)
+tuan8/videos/khong_phu_hop/Test Video.mp4
